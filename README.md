@@ -1,24 +1,25 @@
 ```text
-................................ | antonmiliarde@github ---------------------------------------
-.+++--+###+#+++++++####+---++++. | OS: ....................... Windows 11, Android, Linux
-.+--+#+++++++-+--++++++##+--+++. | Uptime: ................... 23 years, 7 months, 12 days
-.+-+---+++++####+----++++#+-+++. | Field: .................... Machine Learning / Data Science
-.-+#+#+-----...------.-+++#-+++. | IDE: ...................... VS Code, Jupyter Notebook
-.-++++---+-------------++++-+++. | 
-.-+++++-+++--------------++++++. | Languages.Programming: .... Python, SQL, C++, Bash
-.-+++++----+-+-----++-+---+++++. | Frameworks.AI: ............ PyTorch, Sentence-Transformers
-.-+++---------..--------+-+++++. | Core Expertise: ........... Semantic Search, NLP, Vector DB
-.--+++###+#-#######++---++---#+. | 
-.-#++#+++#+.-.-+-+----------.--. | Contact & Links -------------------------------------------
-.-#+++---#+----++-------+--++-+. | Telegram: ................. @your_telegram
-.--#+---+#+------------++-.---+. | Email: .................... your_email@gmail.com
-.+-+++++++-.--++---+---++.--+++. | GitHub: ................... ://github.com
-.++-#+++####----+------++++++++. | 
-.++-++++++.-+++++---+++-+..+--+. | Current Project -------------------------------------------
-.++-+++++###++++#+-+++-++-.##--. | Building a production-grade asynchronous hybrid AI search 
-.++++#+-++----..-+--++##+.-#+#+. | engine for large-scale enterprise product nomenclature.
-.+++-+#++++++++++++++##..-#++++. | 
-.++++-+++---+---+++##+..-#+++++. | -----------------------------------------------------------
-.++----+++++#++###+--..+#++++++. |           Welcome to my intelligent space! 🚀
-.....-.................-........ | _
+................................... | antonmiliarde@github ---------------------------------------------
+.----..+######+++#######++..------. | Status: ................... Open to Production-Grade AI Projects
+.--.-##++++++-.-...-+++++##-.-----. | Role: ..................... AI / NLP & MLOps Engineer
+.-.++..-++++-+####+-..-+++##+.----. | Domain: ................... ML, Data Science & Enterprise AI
+.--##+##--++++-.........++++#+----. | Databases: ................ SQL, Vector DBs, SAP Data Layer
+.-+#+--..............--..+++#+.---. | 
+..+#+++-.---...-.....-...--+++.---. | Core AI Stack ----------------------------------------------------
+.-+++---.---..---...---.-..-++----. | Frameworks: ............... PyTorch, Transformers, Sentence-Transformers
+.--#+++-....--........-.--.-------. | LLM Architecture: ......... RAG (Retrieval-Augmented Generation)
+.--#+......-.-............---#+---. | Intelligent Agents: ....... Multi-Agent AI Systems
+.-.+++######.-#######+--..-+...-+.. | Vector DB & Search: ....... Qdrant, Cosine Similarity Optimization
+.-+#+#+-++#+....-.+-.......-.-..-.. | 
+.-++++--..#-.--.--.......---.-#-.+. | Backend & Production ---------------------------------------------
+.-.#+-..-+#-.-.....--...----....-+. | APIs & Deployment: ........ FastAPI, Docker, Microservices
+.---#+---++....--...----..-....++-. | Data & Analytics: ......... SQL, Advanced Data Processing
+.--.+++++##++-++.+-..-...--###++--. | Enterprise Integration: ... ERP Systems, SAP Module Workflows
+.---+++++++-.---.......-+--..--.--. | 
+.----#++-++#++#+-+-..-++--+-.+#-.-. | Current Focus ----------------------------------------------------
+.----##+.+#+.-....+-.-+-.+#..-##+.. | Building production-grade AI & LLM solutions. Integrating semantic 
+.----+#+-+-..-....++..++##...#+++#. | vector search engines into large-scale enterprise ERP catalogs.
+.-----##-+--+#++++++++###...#+++++. | 
+.-----.+++--.-....-+###....#++++++. | ------------------------------------------------------------------
+.---...-#++++#++####-....-#+++++++. |             Welcome to my intelligent space! 🚀
 ```

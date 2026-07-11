@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**antonmiliarde/antonmiliarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+................................ | antonmiliarde@github ---------------------------------------
+.+++--+###+#+++++++####+---++++. | OS: ....................... Windows 11, Android, Linux
+.+--+#+++++++-+--++++++##+--+++. | Uptime: ................... 23 years, 7 months, 12 days
+.+-+---+++++####+----++++#+-+++. | Field: .................... Machine Learning / Data Science
+.-+#+#+-----...------.-+++#-+++. | IDE: ...................... VS Code, Jupyter Notebook
+.-++++---+-------------++++-+++. | 
+.-+++++-+++--------------++++++. | Languages.Programming: .... Python, SQL, C++, Bash
+.-+++++----+-+-----++-+---+++++. | Frameworks.AI: ............ PyTorch, Sentence-Transformers
+.-+++---------..--------+-+++++. | Core Expertise: ........... Semantic Search, NLP, Vector DB
+.--+++###+#-#######++---++---#+. | 
+.-#++#+++#+.-.-+-+----------.--. | Contact & Links -------------------------------------------
+.-#+++---#+----++-------+--++-+. | Telegram: ................. @your_telegram
+.--#+---+#+------------++-.---+. | Email: .................... your_email@gmail.com
+.+-+++++++-.--++---+---++.--+++. | GitHub: ................... ://github.com
+.++-#+++####----+------++++++++. | 
+.++-++++++.-+++++---+++-+..+--+. | Current Project -------------------------------------------
+.++-+++++###++++#+-+++-++-.##--. | Building a production-grade asynchronous hybrid AI search 
+.++++#+-++----..-+--++##+.-#+#+. | engine for large-scale enterprise product nomenclature.
+.+++-+#++++++++++++++##..-#++++. | 
+.++++-+++---+---+++##+..-#+++++. | -----------------------------------------------------------
+.++----+++++#++###+--..+#++++++. |           Welcome to my intelligent space! 🚀
+.....-.................-........ | _
+```
